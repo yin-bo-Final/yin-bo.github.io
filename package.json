@@ -1,0 +1,22 @@
+{
+  "name": "yin-bo-personal-website",
+  "version": "1.0.0",
+  "description": "Personal website built with Vue 3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": ["vue", "personal-website", "static-site"],
+  "author": "yin-bo",
+  "license": "MIT"
+}
